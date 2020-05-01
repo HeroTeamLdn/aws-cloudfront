@@ -1,6 +1,6 @@
 {
-  "name": "@serverless/aws-cloudfront",
-  "version": "6.0.0",
+  "name": "@heroteam/aws-cloudfront",
+  "version": "6.0.6",
   "main": "./serverless.js",
   "publishConfig": {
     "access": "public"
